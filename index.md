@@ -1,5 +1,3 @@
-    library(htmltools)
-
 Hello
 =====
 
@@ -8,13 +6,4 @@ Hello
     both Bachelor of Social Science \[B.SOC.SCI. (HONS.)\] and Master of
     Social Science \[M.SOC.SCI\].
 
-<!-- -->
-
-    tags$a(
-    href = "www.google.com",
-    "Google"
-    )
-
-<!--html_preserve-->
-
-<a href="www.google.com">Google</a><!--/html_preserve-->
+[About Aaron](/about)

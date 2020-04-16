@@ -1,6 +1,4 @@
-layout: page
-title: "About Me"
-permalink: /about/
+
 ========
 
 -   I studied Psychology at the National University of Singapore from

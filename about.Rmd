@@ -2,9 +2,6 @@
 author: "Aaron"
 date: "4/16/2020"
 output: md_document
-layout: page
-title: "About Me"
-permalink: /about/
 ---
 
 # About Me

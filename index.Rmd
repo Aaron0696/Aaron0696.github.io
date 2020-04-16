@@ -2,7 +2,7 @@
 title: "Home Website"
 author: "Aaron"
 date: "4/16/2020"
-output: html_document
+output: md_document
 ---
 
 # About Me

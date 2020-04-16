@@ -6,4 +6,4 @@ Hello
     both Bachelor of Social Science \[B.SOC.SCI. (HONS.)\] and Master of
     Social Science \[M.SOC.SCI\].
 
-[About Aaron](/about)
+[About Aaron](/about) [About Aaron](https://www.google.com)

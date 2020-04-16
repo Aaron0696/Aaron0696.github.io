@@ -1,3 +1,10 @@
+Posts
+=====
+
+-   Post 1
+-   Post 2
+-   Post 3
+
 About Me
 ========
 
@@ -8,10 +15,12 @@ I graduated from the graduate and undergraduate programs from the
 National University Of Singapore (NUS) under the Concurrent Degree
 Program for Psychology Majors. My thesis was in the domain of
 Quantitative Psychology, which is focused on the application of
-statistical techniques to the study of Psychology. I suffer frequent
-identity crises as I contemplate the fact that I know too little
-statistics to confidently call myself a statistician but also do too
-little psychology to call myself a psychologist.
+statistical techniques to the study of Psychology. My research topic
+evaluated different missing data techniques when applied to joint
+ordinal-continuous measurement models. I suffer frequent identity crises
+as I contemplate the fact that I know too little statistics to
+confidently call myself a statistician but also do too little psychology
+to call myself a psychologist.
 
 Career
 ------

@@ -3,4 +3,4 @@ logo:
 description: The directory to my projects.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman

@@ -1,7 +1,7 @@
-site.title: Aaron's Page
+layout: default
+title: Aaron's Page
 logo: 
-page.description: A collection of my projects.
+description: A collection of my projects.
 show_downloads: false
 google_analytics: UA-169367743-1
 theme: jekyll-theme-cayman
-layout: default

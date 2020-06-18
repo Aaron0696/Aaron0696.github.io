@@ -3,5 +3,5 @@ logo:
 description: A Directory For My Personal Projects
 show_downloads: false
 google_analytics: UA-169367743-1
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman-blog
 layout: default

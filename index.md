@@ -1,8 +1,6 @@
-# My Projects
+# My Personal Projects
 
-* [Power Simulator for Between-Subjects ANOVA (`shiny` app)](https://aaron0696.github.io/BtwnANOVAPowSim/)
-* [Finding the most popular Psychology modules in NUS using bidding statistics.](https://aaron0696.github.io/psychmods/)
-
-# My Contacts
-LinkedIn: [https://www.linkedin.com/in/aaron-lim-b30898135/](https://www.linkedin.com/in/aaron-lim-b30898135/)  
-Email: aronlimjm@gmail.com
+* R `Shiny`
+    * [Power Simulator for Between-Subjects ANOVA](https://aaron0696.github.io/BtwnANOVAPowSim/)
+* Data Analysis In R
+    * [The Most And Least Popular Psychology Modules In NUS](https://aaron0696.github.io/psychmods/)

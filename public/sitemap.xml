@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aaron0696.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaron0696.github.io/tags/blog-admin/</loc>
+    <loc>/tags/blog-admin/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaron0696.github.io/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaron0696.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaron0696.github.io/blog/firstpost/</loc>
+    <loc>/blog/firstpost/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaron0696.github.io/about/</loc>
+    <loc>/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aaron0696.github.io/projects/</loc>
+    <loc>/projects/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aaron0696.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>

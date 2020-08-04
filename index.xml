@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Aaron Lim Jin Ming on </title>
     <link>/</link>
-    <description>Recent content on </description>
+    <description>Recent content in Aaron Lim Jin Ming on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
@@ -62,7 +62,7 @@ Below are the key resources that I have consulted.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Aaron Lim Jin Ming</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -72,7 +72,7 @@ Education I studied Psychology at the National University of Singapore (NUS) und
     </item>
     
     <item>
-      <title></title>
+      <title>Personal Projects</title>
       <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
